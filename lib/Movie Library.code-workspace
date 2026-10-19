@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "../../../../AI Learning/Books/Third year/First term/Mobile application/Section/Movie Library"
+		},
+		{
+			"path": "../.dart_tool"
+		},
+		{
+			"path": "../.idea"
+		},
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../android"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../build"
+		},
+		{
+			"path": "../ios"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../linux"
+		},
+		{
+			"path": "../macos"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../web"
+		},
+		{
+			"path": "../windows"
+		}
+	],
+	"settings": {}
+}
